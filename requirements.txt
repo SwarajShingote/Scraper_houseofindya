@@ -1,0 +1,15 @@
+certifi==2020.12.5
+cffi==1.14.5
+chardet==4.0.0
+cssselect==1.1.0
+idna==2.10
+lxml==4.6.2
+parsel==1.6.0
+Protego==0.1.16
+pycparser==2.20
+PyDispatcher==2.0.5
+requests==2.25.1
+six==1.15.0
+urllib3==1.26.4
+w3lib==1.22.0
+zope.interface==5.2.0
