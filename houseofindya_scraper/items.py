@@ -1,10 +1,12 @@
-# Define here the models for your scraped items
-#
-# See documentation in:
-# https://docs.scrapy.org/en/latest/topics/items.html
+
 import scrapy
 
-class DmozItem(scrapy.Item):
-##    price = scrapy.Field()
-    url = scrapy.Field()
+class item_hoi(scrapy.Item):
+
+    """ Defining field items for 
+         desc, price and url"""
+
     desc = scrapy.Field()
+    price = scrapy.Field()
+    url = scrapy.Field()
+    
